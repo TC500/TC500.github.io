@@ -452,7 +452,7 @@ gitalk:
 # Share
 #jiathis:
 # Warning: JiaThis does not support https.
-#add_this_id:
+add_this_id: ra-5c66b90bdd894015
 
 # Share
 #duoshuo_share: true
