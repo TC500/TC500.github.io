@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: 'https://tc500.github.io/'
 baseurl:
 permalink: pretty
 
@@ -459,7 +459,7 @@ add_this_id: ra-5c66b90bdd894015
 
 # Google Webmaster tools verification setting
 # See: https://www.google.com/webmasters/
-#google_site_verification:
+google_site_verification: "NMIHtw5BGHxncBypR5IUx6MkSxslQvdXN15qY2UPCPs"
 
 # Google Analytics
 #google_analytics:
